@@ -1,13 +1,12 @@
-# Vadim Yurusov
----
+## Vadim Yurusov
 
 ### Contacts
 ---
 
-- **Location**: Gomel,Belarus
+- **Location**: Gomel, Belarus
 - **Phone**: +375447597675
 - **Email**: vadimka.yurusov@gmail.com
-- **Github**: vadimYUrusov
+- **Github**: vadimYrusov
 
 ### About me
 ---
@@ -42,7 +41,7 @@ console.log(`The number is ${result}.`);
 ### Experience
 ---
 
-My Github projects:[Link](https://github.com/vadimYrusov)
+My Github projects: [Link](https://github.com/vadimYrusov)
 
 ### Education
 ---
