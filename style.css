@@ -25,11 +25,21 @@ img {
 }
 
 .main {
-    border: 1px solid red;
 }
 
 .footer {
-    border: 1px solid red;
+    border: 1px solid LightBlue;
+    background-color: LightBlue;
+}
+
+.fot-item {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    text-decoration: none;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 700;
+    color: GhostWhite;
 }
 
 .container {
@@ -58,9 +68,15 @@ img {
     display: flex;
     flex-wrap: wrap;
   }
+
+.profile-cantainer {
+    display: flex;
+    flex-wrap: wrap;
+}
   
 .section {
     width: 50%;
+    padding: 20px;
   }
 
   @media (max-width: 768px) {
@@ -69,4 +85,55 @@ img {
     }
   }
 
-  
+h2 {
+    color: grey;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+    color: grey;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+hr {
+    height:2px;
+    border-width:0;
+    color:LightBlue;
+    background-color:LightBlue;
+    width:50%
+}
+
+.job-title {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 500;
+    font-size: 135%;
+}
+
+.section-profile {
+    padding-top: 10px;
+    padding-left: 20px;
+    position: absolute;
+}
+
+.image-section {
+    padding-top: 10px;
+    padding-left: 51%;
+}
+
+p{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 700;
+    color: dimgray; 
+}
+
+li {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 700; 
+    color: dimgray;
+}
+
+a {
+    color: LightBlue;
+    text-decoration: none;
+    font-weight: 900;
+}
